@@ -7,7 +7,7 @@ Estudante com interesse em tecnologia e curiosidade no desenvolvimento de softwa
 ---
 
 ### Atualmente aprendendo sobre
-**SDUI (Server-Driven UI)** e refinamento de respostas de **LLMs** utilizando RAG, Fine-tuning, Native Structured Outputs.
+Refinamento de respostas de **LLMs** utilizando RAG, Fine-tuning, Native Structured Outputs em aplicações.
 
 ### Experiência Anterior
 Trabalhei na construção de bibliotecas de **Design System** focadas em visualização de dados.
