@@ -1,18 +1,28 @@
-### Théo Rodrigues
+# Olá! 👋
+
+Sou Aprendiz de Engenharia de Software na **UFCG** (Universidade Federal de Campina Grande), atuando como aprendiz de engenheiro de software pela VTEX LAB.
+
+Estudante com interesse em tecnologia e curiosidade no desenvolvimento de software.
 
 ---
 
-### ABOUT ME 
+### Atualmente aprendendo sobre
+**SDUI (Server-Driven UI)** e refinamento de respostas de **LLMs** utilizando RAG, Fine-tuning, Native Structured Outputs.
 
-Estudante de Ciência da Computação  na UFCG, atualmente Engenheiro de software na VTEX-LAB
+### Experiência Anterior
+Trabalhei na construção de bibliotecas de **Design System** focadas em visualização de dados.
+- **Tech:** TypeScript, React.
+- **Qualidade:** CI/CD com GitHub Actions e testes visuais com Chromatic.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original-wordmark.svg" height="80" width="80" >
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="80" width="80">
-<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" height="80" width="80">
+### 🛠️ Tech Stack & Ferramentas
 
-</div>
+**Frontend & Languages**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**DevOps**
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenShift](https://img.shields.io/badge/openshift-%23EE0000.svg?style=for-the-badge&logo=redhatopenshift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
