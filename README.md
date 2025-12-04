@@ -4,7 +4,7 @@
 
 ### ABOUT ME 
 
-Estudante de ciências da computação na Universidade Federal de Campina Grande(UFCG) com interesse em programação competitiva e aberto a experiências em diversas áreas.
+Estudante de Ciência da Computação  na UFCG, atualmente Engenheiro de software na VTEX-LAB
 
 ---
 
