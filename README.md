@@ -5,7 +5,6 @@ Sou Aprendiz de Engenharia de Software na **UFCG** (Universidade Federal de Camp
 Estudante com interesse em tecnologia e curiosidade no desenvolvimento de software.
 
 ---
-### Atualmente trabalhando na VTEX-LAB 03/2025
 
 ### Atualmente aprendendo sobre
 **SDUI (Server-Driven UI)** e refinamento de respostas de **LLMs** utilizando RAG, Fine-tuning, Native Structured Outputs.
