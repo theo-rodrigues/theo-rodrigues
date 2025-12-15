@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou Aprendiz de Engenharia de Software na **UFCG** (Universidade Federal de Campina Grande), atuando como aprendiz de engenheiro de software pela VTEX LAB.
+Sou Estudante de ciência da computação na UFCG, atuo como aprendiz de engenheiro de software pela VTEX LAB.
 
 Estudante com interesse em tecnologia e curiosidade no desenvolvimento de software.
 
@@ -9,8 +9,6 @@ Estudante com interesse em tecnologia e curiosidade no desenvolvimento de softwa
 ### Atualmente aprendendo sobre
 Refinamento de respostas de **LLMs** utilizando RAG, Fine-tuning, Native Structured Outputs em aplicações.
 
-### Experiência Anterior
-Trabalhei na construção de bibliotecas de **Design System** focadas em visualização de dados com pipelines CI/CD com GitHub Actions e testes visuais com Chromatic.
 
 
 ---
